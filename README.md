@@ -1,4 +1,4 @@
-### Hi, I'm Yeison 👋 — AI Engineer (RAG · Agentic Systems · Production)
+### Hi, I'm Yeison 👋 — AI Software Engineer (RAG · Agentic Systems · Production)
 
 I build AI systems that reach **production**, not demos. My focus: turning messy, unstructured data
 into reliable **agents** and **retrieval systems** that cut cost and latency for real businesses.
