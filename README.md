@@ -18,7 +18,11 @@ into reliable **agents** and **retrieval systems** that cut cost and latency for
   NestJS + Next.js + PostgreSQL + Redis + Docker.
 
 📍 Colombia · Remote · English C1 (EF SET)
+
 💬 Ask me about production RAG, agent reliability, and latency/cost optimization.
+
 🌐 Portfolio: https://yeisondelgadowebportfolio.vercel.app/
+
 🔗 LinkedIn: https://www.linkedin.com/in/estiven-delgado/
+
 📫 yeisonestivendelgado109@gmail.com
